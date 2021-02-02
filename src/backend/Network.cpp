@@ -4,7 +4,7 @@
 ** File description:
 ** network
 */
-#include "Network.h"
+#include "Network.hpp"
 #include <string>
 #include <fstream>
 #include <sstream>

@@ -5,9 +5,9 @@
 ** setup
 */
 
-#include "curse.h"
+#include "curse.hpp"
 #include <curses.h>
-#include "monitor.h"
+#include "monitor.hpp"
 
 void window_init(void)
 {

@@ -7,7 +7,7 @@
 
 #include <string>
 #include <iostream>
-#include "System.h"
+#include "System.hpp"
 
 int main_curse(System &sys);
 

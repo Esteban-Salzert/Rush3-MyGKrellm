@@ -5,7 +5,7 @@
 ** cpu
 */
 
-#include "monitor.h"
+#include "monitor.hpp"
 #include <array>
 
 void draw_core(int max, int current, core_t elems, MonitorDisplay &disp)

@@ -5,7 +5,7 @@
 ** settings
 */
 
-#include "monitor.h"
+#include "monitor.hpp"
 
 void draw_settings(MonitorDisplay &disp, const System &sys)
 {

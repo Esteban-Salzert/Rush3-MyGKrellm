@@ -8,8 +8,8 @@
 #include <time.h>
 #include <iostream>
 #include <unistd.h>
-#include "curse.h"
-#include "monitor.h"
+#include "curse.hpp"
+#include "monitor.hpp"
 
 #define ever (;;)
 

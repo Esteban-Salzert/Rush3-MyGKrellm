@@ -5,7 +5,7 @@
 ** ram
 */
 
-#include "monitor.h"
+#include "monitor.hpp"
 
 void draw_ram(MonitorDisplay &disp, const System &sys)
 {

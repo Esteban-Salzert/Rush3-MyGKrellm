@@ -5,7 +5,7 @@
 ** sys
 */
 
-#include "monitor.h"
+#include "monitor.hpp"
 
 void draw_sys(MonitorDisplay &disp, const System &sys)
 {

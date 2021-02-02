@@ -8,7 +8,7 @@
 #include <map>
 #include <string>
 #include <ncurses.h>
-#include "System.h"
+#include "System.hpp"
 
 enum color_pairs {
     BLACK = 1,

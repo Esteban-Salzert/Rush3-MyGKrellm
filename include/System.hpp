@@ -5,12 +5,12 @@
 ** system
 */
 
-#include "date_time.h"
-#include "hostname_username.h"
-#include "memory_ram.h"
+#include "date_time.hpp"
+#include "hostname_username.hpp"
+#include "memory_ram.hpp"
 #include "core.hpp"
-#include "Kernel.h"
-#include "Network.h"
+#include "Kernel.hpp"
+#include "Network.hpp"
 
 class System
 {
