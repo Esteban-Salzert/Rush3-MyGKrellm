@@ -1,0 +1,206 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/frontend/ncurses/ram.cpp",
+      "-o",
+      "build/frontend/ncurses/ram.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/frontend/ncurses/ram.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/frontend/ncurses/ram.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/backend/kernel.cpp",
+      "-o",
+      "build/backend/kernel.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/backend/kernel.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/backend/kernel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/frontend/ncurses/sys.cpp",
+      "-o",
+      "build/frontend/ncurses/sys.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/frontend/ncurses/sys.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/frontend/ncurses/sys.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/backend/Network.cpp",
+      "-o",
+      "build/backend/Network.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/backend/Network.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/backend/Network.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/frontend/ncurses/main_curse.cpp",
+      "-o",
+      "build/frontend/ncurses/main_curse.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/frontend/ncurses/main_curse.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/frontend/ncurses/main_curse.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/backend/date_time.cpp",
+      "-o",
+      "build/backend/date_time.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/backend/date_time.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/backend/date_time.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/frontend/ncurses/cpu.cpp",
+      "-o",
+      "build/frontend/ncurses/cpu.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/frontend/ncurses/cpu.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/frontend/ncurses/cpu.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/backend/memory_ram.cpp",
+      "-o",
+      "build/backend/memory_ram.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/backend/memory_ram.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/backend/memory_ram.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/backend/core.cpp",
+      "-o",
+      "build/backend/core.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/backend/core.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/backend/core.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/backend/hostname_username.cpp",
+      "-o",
+      "build/backend/hostname_username.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/backend/hostname_username.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/backend/hostname_username.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "build/main.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/main.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-I./include",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "src/frontend/ncurses/setup.cpp",
+      "-o",
+      "build/frontend/ncurses/setup.o"
+    ],
+    "directory": "/home/erudyx/Epitech/Tech2/CppPool/rush3",
+    "file": "/home/erudyx/Epitech/Tech2/CppPool/rush3/src/frontend/ncurses/setup.cpp",
+    "output": "/home/erudyx/Epitech/Tech2/CppPool/rush3/build/frontend/ncurses/setup.o"
+  }
+]
